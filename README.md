@@ -138,14 +138,17 @@ A: 正在做，对于拼音缩写来说，模型检测会很容易将其与句�
 ### 引用
 如果您对CNMBERT的具体实现感兴趣的话，可以参考
 ```
-@misc{feng2024cnmbertmodelhanyupinyin,
-      title={CNMBert: A Model For Hanyu Pinyin Abbreviation to Character Conversion Task}, 
-      author={Zishuo Feng and Feng Cao},
-      year={2024},
-      eprint={2411.11770},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2411.11770}, 
-}
+@INPROCEEDINGS{11228899,
+  author={Feng, Zishuo and Cao, Feng and Feng, Lei},
+  booktitle={2025 International Joint Conference on Neural Networks (IJCNN)}, 
+  title={CNMBERT: A Model for Converting Hanyu Pinyin Abbreviations to Chinese Characters}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Sentiment analysis;Accuracy;Large language models;Neural networks;Named entity recognition;Chinese Spelling Correction;BERT;Pinyin Abbreviation;Conversion Task},
+  doi={10.1109/IJCNN64981.2025.11228899}}
 ```
+
+
 
